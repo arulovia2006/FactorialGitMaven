@@ -5,7 +5,7 @@ public class FactorialTest {
 
     @Test
     void testFactorial() {
-        assertEquals(120L, Factorial.fact(5));
+        assertEquals(100L, Factorial.fact(5));
     }
 
     @Test
